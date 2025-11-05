@@ -27,13 +27,19 @@
   <main>
     <article>
       <h1>Page Heading</h1>
-      <p>Lead paragraph — replace with your content from the mockup.</p>
-      <section>
-        <h2>Section Title</h2>
-        <p>Section content…</p>
-        <figure>
           <img src="assets/images/example.jpg" alt="Descriptive alt text">
-          <figcaption>Image caption (if needed)</figcaption>
+
+          <img src="assets/images/example.jpg" alt="Descriptive alt text">
+
+          <img src="assets/images/example.jpg" alt="Descriptive alt text">
+
+          <img src="assets/images/example.jpg" alt="Descriptive alt text">
+
+         <img src="assets/images/example.jpg" alt="Descriptive alt text">
+         
+         <img src="assets/images/example.jpg" alt="Descriptive alt text">
+
+
         </figure>
       </section>
     </article>
