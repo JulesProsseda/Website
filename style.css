@@ -3,10 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 Nav{
   height: 100px
-  100%;
+  width 100%;
   background-color: blue;
-
 }
+
