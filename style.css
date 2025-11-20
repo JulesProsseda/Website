@@ -7,17 +7,3 @@
 
 
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-Nav{
-  height: 100px
-  width 100%;
-  background-color: #b
-}
-
-ul > li {
-  list-style-type: square;
-}
