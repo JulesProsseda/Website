@@ -1,18 +1,10 @@
-/* CSS */
-.box-model {
-  width: 200px;
-  height: 100px;
-  padding: 20px; /* space inside the box */
-  margin: 20px;  /* space outside the box */
-  border: 3px solid #2980b9; /* border around content+padding */
-  outline: 3px dashed #e74c3c; /* outline outside border */
-  background-color: #3498db;
-  color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  box-sizing: content-box; /* or border-box */
+:root {
+  --Primary-color: #be0000bc;
+  --spacing: 1rem;
 }
+
+
+
 
 
 * {
@@ -23,7 +15,7 @@
 Nav{
   height: 100px
   width 100%;
-  background-color: #be0000bc
+  background-color: #b
 }
 
 ul > li {
