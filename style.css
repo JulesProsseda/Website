@@ -1,10 +1,18 @@
-:root {
-  --main-color: #a0140d;
-  --font-stack: 'Arial', sans-serif;
+/* CSS */
+.box-model {
+  width: 200px;
+  height: 100px;
+  padding: 20px; /* space inside the box */
+  margin: 20px;  /* space outside the box */
+  border: 3px solid #2980b9; /* border around content+padding */
+  outline: 3px dashed #e74c3c; /* outline outside border */
+  background-color: #3498db;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: content-box; /* or border-box */
 }
-
-
-
 
 
 * {
