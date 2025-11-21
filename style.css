@@ -9,6 +9,7 @@
   box-sizing: border-box;
 }
 
+
 body{
   background-color: var(--primary-color);
 }
@@ -19,6 +20,7 @@ nav{
   justify-content: space-between;
   background-color: white;
   padding: 40px;
+  text-size-adjust: 60px;
 }
 
 nav ul{
