@@ -49,3 +49,11 @@ div.portfolio img{
   width: 100%;
   height: auto;
 }
+
+
+div.contact img{
+  display: grid;
+  grid-row: 1fr 1fr;
+  gap: 16px;
+
+}
