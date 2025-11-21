@@ -1,9 +1,51 @@
 :root {
-  --Primary-color: #be0000bc;
+  --primary-color: #290402;
   --spacing: 1rem;
 }
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: var(--primary-color);
+}
+
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+  padding: 40px;
+}
+
+nav ul{
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  list-style: none;
+}
+
+nav ul a{
+text-decoration-line:none;
+}
+
+main{
+  max-width: 1100px;
+  margin: auto;
+}
 
 
+div.portfolio{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
 
+}
 
+div.portfolio img{
+  width: 100%;
+  height: auto;
+}
