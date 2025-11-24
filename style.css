@@ -58,9 +58,3 @@ div.contact img{
   gap: 16px;
 
 }
-
-div.home{
-  display: grid;
-  grid-row: 1fr 1fr;
-  gap: 16px
-}
