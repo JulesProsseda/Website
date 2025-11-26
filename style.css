@@ -87,4 +87,5 @@ div.contact img{
 
 div.home{
   display: grid;
+  grid-row: 1fr 1fr;
 }
