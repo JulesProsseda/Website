@@ -85,3 +85,6 @@ div.contact img{
 
 
 
+div.home{
+  display: grid;
+}
