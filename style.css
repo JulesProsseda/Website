@@ -38,6 +38,26 @@ main{
   margin: auto;
 }
 
+footer{
+  background-color: white;
+  padding: 20px;
+}
+  
+p{
+   font-family: verdana;
+  font-size: 20px;
+}
+
+
+
+/*------------ Home ----------------*/
+
+
+
+
+
+
+/*----------- portfolio ----------- */
 
 div.portfolio{
   display: grid;
@@ -51,10 +71,16 @@ div.portfolio img{
   height: auto;
 }
 
+/* ------------- contact ---------------*/ 
+
 
 div.contact img{
-  display: grid;
+  display: table-column;
   grid-row: 1fr 1fr;
   gap: 16px;
+  padding: 40px;
 
 }
+
+
+
