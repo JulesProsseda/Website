@@ -53,11 +53,9 @@ nav
 
 /*------------ Home ----------------*/
 
-div.home img{
-  width: 50%;
-  height: 50%;
+figcaption{
+  color: white;
 }
-
 
 
 
