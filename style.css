@@ -79,7 +79,9 @@ div.portfolio img{
 
 /*------------ about ----------------*/
 
-
+.about-text{
+  color: white;
+}
 
 
 /* ------------- contact ---------------*/ 
