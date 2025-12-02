@@ -53,7 +53,10 @@ nav
 
 /*------------ Home ----------------*/
 
-
+div.home img{
+  width: 50%;
+  height: 50%;
+}
 
 
 
@@ -71,6 +74,13 @@ div.portfolio img{
   width: 100%;
   height: auto;
 }
+
+
+
+/*------------ about ----------------*/
+
+
+
 
 /* ------------- contact ---------------*/ 
 
