@@ -59,6 +59,7 @@ figcaption{
 
 
 
+
 /*----------- portfolio ----------- */
 
 div.portfolio{
@@ -90,6 +91,7 @@ div.contact img{
   grid-row: 1fr 1fr;
   gap: 16px;
   padding: 40px;
+  
 
 }
 
