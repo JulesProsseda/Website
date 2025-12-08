@@ -54,6 +54,11 @@ p{
 }
 
 
+body h1 {
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 
 
 
@@ -64,7 +69,10 @@ figcaption{
   color: white;
 }
 
+div.home img{
+  padding-top: 10pt;
 
+}
 
 
 /*----------- portfolio ----------- */
@@ -95,6 +103,7 @@ div.about {
   background-attachment: fixed;
   padding-bottom: 30%;
 }
+
 
 div.about img{
   height: 50%;
