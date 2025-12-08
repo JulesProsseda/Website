@@ -19,20 +19,25 @@ nav{
   flex-direction: row;
   justify-content: space-between;
   background-color: white;
-  padding: 40px;
+  padding: 30px;
+  background-image: url(header\ image.png);
+  background-size: 100%;
+  background-position: 80%;
+  background-repeat: no-repeat;
 }
 
 nav ul{
   display: flex;
   flex-direction: row;
-  gap: 24px;
+  gap: 34px;
   list-style: none;
 }
 
 nav ul a{
 text-decoration-line:none;
+color: rgb(112, 150, 112);
 }
-
+ 
 main{
   max-width: 1100px;
   margin: auto;
@@ -40,7 +45,7 @@ main{
 
 footer{
   background-color: white;
-  padding: 20px;
+
 }
   
 p{
@@ -48,7 +53,9 @@ p{
   font-size: 20px;
 }
 
-nav 
+
+
+
 
 
 /*------------ Home ----------------*/
@@ -66,6 +73,7 @@ div.portfolio{
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 16px;
+  padding-bottom: 10px;
 
 }
 
@@ -74,11 +82,30 @@ div.portfolio img{
   height: auto;
 }
 
+div.po
 
 
 /*------------ about ----------------*/
 
-.about-text{
+div.about {
+  background-image: url(self\ portrait.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+
+
+}
+
+div.about img{
+  height: 50%;
+  width: 50%;
+}
+
+div.about caption{
+text-align: center;
+padding-bottom: 20%;
+}
+
+div.about-text{
   color: white;
 }
 
@@ -91,8 +118,14 @@ div.contact img{
   grid-row: 1fr 1fr;
   gap: 16px;
   padding: 40px;
-  
+  width: 300px;
+  height: 300px;
 
+}
+
+img {
+  width: 200px;
+  height: 300px;
 }
 
 
@@ -100,4 +133,7 @@ div.contact img{
 div.home{
   display: grid;
   grid-row: 1fr 1fr;
+  height: auto;
+  width: auto
 }
+
