@@ -53,13 +53,21 @@ p{
   font-size: 20px;
 }
 
+@font-face {
+  font-family:Irish Grover,system-ui;
+  src: url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+}
 
 body h1 {
 color: white;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-left: 40%;
+font-family:Irish Grover, system-ui;
 }
 
-
+body h2 {
+  color: white;
+  padding-top: 80pt;
+}
 
 
 
