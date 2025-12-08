@@ -91,8 +91,9 @@ div.about {
   background-image: url(self\ portrait.jpg);
   background-repeat:no-repeat;
   background-size: cover;
-
-
+  background-position: center;
+  background-attachment: fixed;
+  padding-bottom: 30%;
 }
 
 div.about img{
