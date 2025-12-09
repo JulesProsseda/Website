@@ -111,11 +111,11 @@ div.po
 
 /*------------ about ----------------*/
 
-selector
+selector 
 
 div.about img{
   height: 50%;
-  width: 50%;
+  width: 60%;
 }
 
 div.about caption{
