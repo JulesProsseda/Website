@@ -70,13 +70,23 @@ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 body h2 {
   color: white;
   padding-top: 30pt;
+  padding-right: 40%;
 }
 
 h3{
   color: white;
-  padding-left: 50%;
+  padding-right: 40%;
 }
 
+h4{
+  color: white;
+  padding-right: 40%;
+}
+
+h5{
+  color: white;
+  padding-right: 40%;
+}
 /*------------ Home ----------------*/
 
 figcaption{
