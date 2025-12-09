@@ -145,7 +145,7 @@ div.about-text{
 
 div.contact img{
   display: table-column;
-  grid-row: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 16px;
   padding: 40px;
   width: 300px;
@@ -162,7 +162,7 @@ img {
 
 div.home{
   display: grid;
-  grid-row: 1fr 1fr;
+grid-template-columns: 1fr 1fr;
   height: auto;
   width: auto
 }
