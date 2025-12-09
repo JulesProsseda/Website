@@ -69,7 +69,7 @@ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 body h2 {
   color: white;
-  padding-top: 80pt;
+  padding-top: 30pt;
 }
 
 h3{
@@ -167,3 +167,7 @@ grid-template-columns: 1fr 1fr;
   width: auto
 }
 
+div.email{
+  color: white;
+  padding-left: 45%;
+}
