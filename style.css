@@ -122,7 +122,7 @@ div.po
 div.about img{
   height: 80%;
   width: 70%;
-  padding-bottom: 20%;
+  padding-bottom: 30%;
   padding-top: 5%;
   align-content: center;
 }
@@ -137,6 +137,7 @@ div.about-text{
   padding-top: 20%;
   padding-left: 10%;
 }
+
 
 
 /* ------------- contact ---------------*/ 
