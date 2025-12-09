@@ -111,11 +111,20 @@ div.po
 
 /*------------ about ----------------*/
 
-selector 
+ div.background {
+    background-image: url('self\ portrait.jpg'); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
+  }
 
 div.about img{
-  height: 50%;
-  width: 60%;
+  height: 80%;
+  width: 70%;
+  padding-bottom: 20%;
+  padding-top: 5%;
+  align-content: center;
 }
 
 div.about caption{
@@ -125,6 +134,8 @@ padding-bottom: 20%;
 
 div.about-text{
   color: white;
+  padding-top: 20%;
+  padding-left: 10%;
 }
 
 
